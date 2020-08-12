@@ -4,6 +4,6 @@ This is a repository for assignments completed by Carole Voulgaris for Quantitat
 
 Github pages has been enabled, so you can view any html files in this repo at this url:
 
-https://ses-5215-f2020.github.io/cvoulgaris-quant/assignment-name
+https://ses-5215-f2020.github.io/cvoulgaris-quant/filename
 
-*(replace “assignment-name” with the filename of the html file)*
+*(replace “filename” with the name of the html file)*
