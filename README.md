@@ -6,4 +6,4 @@ Github pages has been enabled, so you can view any html files in this repo at th
 
 https://ses-5215-f2020.github.io/cvoulgaris-quant/assignment-name
 
-*(replace “assignment-name” with the filename of the html file created from your Rmarkdown file)*
+*(replace “assignment-name” with the filename of the html file)*
